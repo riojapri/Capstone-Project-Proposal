@@ -1,8 +1,8 @@
 # Capstone-project-nama produk
-face recognition
+FACE RECOGNITION
 # Team 
-Saddam Alfarezi 1207050113
-Rio Jepriansah  1207050108
+-Saddam Alfarezi 1207050113
+-Rio Jepriansah  1207050108
 
 
 
