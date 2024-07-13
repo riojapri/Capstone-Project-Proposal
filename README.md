@@ -5,6 +5,10 @@ FACE RECOGNITION
 
 -Rio Jepriansah  1207050108 ( Project Manager)
 
+-Mail nurrohman ibrohim 1207050061 ( UI UX )
+
+
+
 
 
 # promotion vidieo
